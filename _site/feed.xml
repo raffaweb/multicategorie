@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prova di divisione per categorie</title>
+    <description>Breve descrizione del sito
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 12 Mar 2015 23:57:56 +0100</pubDate>
+    <lastBuildDate>Thu, 12 Mar 2015 23:57:56 +0100</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Le vostre zone erronee</title>
+        <description>&lt;p&gt;Questo è un post di categoria “libro” che comparirà nella pagina dei libri.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Mar 2015 00:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/libri/2015/03/12/libro-2.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/libri/2015/03/12/libro-2.html</guid>
+        
+        
+        <category>libri</category>
+        
+      </item>
+    
+      <item>
+        <title>In alto a sinistra</title>
+        <description>&lt;p&gt;Questo è un post di categoria “libro” che comparirà nella pagina dei libri.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Mar 2015 00:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/libri/2015/03/12/libro-1.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/libri/2015/03/12/libro-1.html</guid>
+        
+        
+        <category>libri</category>
+        
+      </item>
+    
+      <item>
+        <title>Post generale</title>
+        <description>&lt;p&gt;Questo è un post di categoria “home” che comparirà nella home.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Mar 2015 00:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/home/2015/03/12/generale.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/home/2015/03/12/generale.html</guid>
+        
+        
+        <category>home</category>
+        
+      </item>
+    
+      <item>
+        <title>Toto IV</title>
+        <description>&lt;p&gt;Questo è un post di categoria “disco” che comparirà nella pagina dei dischi.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Mar 2015 00:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/dischi/2015/03/12/disco-2.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/dischi/2015/03/12/disco-2.html</guid>
+        
+        
+        <category>dischi</category>
+        
+      </item>
+    
+      <item>
+        <title>Wish you were here</title>
+        <description>&lt;p&gt;Questo è un post di categoria “disco” che comparirà nella pagina dei dischi.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Mar 2015 00:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/dischi/2015/03/12/disco-1.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/dischi/2015/03/12/disco-1.html</guid>
+        
+        
+        <category>dischi</category>
+        
+      </item>
+    
+  </channel>
+</rss>

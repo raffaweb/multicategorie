@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Wish you were here"
+category: dischi
+---
+
+Questo è un post di categoria "disco" che comparirà nella pagina dei dischi.
