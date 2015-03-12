@@ -1,4 +1,10 @@
 #!/bin/bash
 
-bundle exec jekyll serve
+trap 'kill -TERM $PID' TERM INT
+bundle exec jekyll serve &
+PID=$!
 open http://127.0.0.1:4000/
+wait $PID
+trap - TERM INT
+wait $PID
+EXIT_STATUS=$?
